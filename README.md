@@ -1,14 +1,12 @@
 # Isaac Ranked Launcher
 
-Official Windows launcher for [Isaac Ranked](https://github.com/ZylexzReal/IsaacRanked) ranked play.
+Official companion app for [Isaac Ranked](https://github.com/ZylexzReal/IsaacRanked) ranked matchmaking on Windows.
 
-## Download
-
-**[Latest release (Isaac Ranked Setup)](../../releases/latest)**
+## Setup
 
 1. Install [REPENTOGON](https://repentogon.com/install.html)
 2. Subscribe to **Isaac Ranked** on Steam Workshop and enable it
-3. Download and run `Isaac Ranked Setup X.Y.Z.exe` from [Releases](../../releases)
+3. Get the Windows companion app from [Releases](../../releases) (tagged builds only)
 4. Launch **Isaac Ranked** from the desktop shortcut
 5. Click **Play Ranked**
 
@@ -33,8 +31,8 @@ Launcher source is developed in the main repo:
 
 https://github.com/ZylexzReal/IsaacRanked/tree/main/launcher
 
-This repository only hosts **player installers** and release notes.
+This repository hosts tagged Windows builds and release notes for the companion app.
 
-## Auto-updates
+## Updates
 
-Installed launchers check this repo's GitHub Releases for newer versions.
+Installed apps check this repo's GitHub Releases for newer tagged builds.
